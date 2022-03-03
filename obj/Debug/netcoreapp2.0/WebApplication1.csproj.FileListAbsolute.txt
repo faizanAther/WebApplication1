@@ -1,0 +1,16 @@
+C:\Users\Syed.Ather\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Syed.Ather\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Syed.Ather\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Syed.Ather\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Syed.Ather\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+C:\Users\Syed.Ather\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+C:\Users\Syed.Ather\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\Syed.Ather\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\Syed.Ather\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\Syed.Ather\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Syed.Ather\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Syed.Ather\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Syed.Ather\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Syed.Ather\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\Syed.Ather\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\Syed.Ather\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.genruntimeconfig.cache
